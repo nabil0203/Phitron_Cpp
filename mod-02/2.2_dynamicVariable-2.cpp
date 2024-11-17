@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void func()
+int func()
 {
     int a = 10;
     return a;
