@@ -1,3 +1,5 @@
+//check week01-practice01 (practice02.cpp) for better understanding
+
 #include <bits/stdc++.h>
 using namespace std;
 int main()
@@ -18,7 +20,7 @@ int main()
     b[3] = 34;
     b[4] = 87;
 
-    delete[] a;                                 // the previous array is deleted; bcz it's copied
+    delete[] a;                                 // the previous array is deleted; but it's already copied
 
     for (int i = 0; i < 5; i++)
     {
