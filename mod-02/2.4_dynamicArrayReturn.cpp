@@ -1,3 +1,7 @@
+// static array can't be returned form other function
+// that's why Dynamic array is used
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
