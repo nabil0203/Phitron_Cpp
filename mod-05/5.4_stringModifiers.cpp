@@ -6,7 +6,7 @@ int main()
     string a = "Nabil";
     string b = "Ahmed";
 
-    a += b;                 // a = a+b
+    a += b;                 // a = a + b
     cout << a << endl;
 
     a.pop_back();           // deletes last element
