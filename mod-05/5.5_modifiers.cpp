@@ -21,7 +21,7 @@ int main()
 
     string e = "Ami pari na";
     // e.replace(4, 0, "Code");(same thing)
-    e.insert(4, "code");                           // which index, what i want to insert;
+    e.insert(4, "code");                           // which index, what i want to insert
     cout << e;
 
     return 0;
