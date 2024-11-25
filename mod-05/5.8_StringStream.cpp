@@ -9,7 +9,6 @@ int main()
 
 
 
-
     stringstream ss(a);             // class obj(value)
 
     string word;
