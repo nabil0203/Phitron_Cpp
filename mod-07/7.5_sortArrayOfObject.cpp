@@ -43,7 +43,10 @@ bool comp(Student l, Student r)
 
 
 
-    return l.marks < r.marks;
+    return l.marks < r.marks;           // in ascending order
+    
+//  return l.marks > r.marks;           // in descending order
+
 
 }
 
