@@ -1,4 +1,4 @@
-/*
+/*-----------------------------------------
 
 Make a class named Student. Write a program to take a positive integer N as input and make an Student array of size N.
 
@@ -47,7 +47,9 @@ Sakib 55 86
 Zubair 57 86
 
 
-*/
+----------------------------------------*/
+
+
 
 #include <bits/stdc++.h>
 using namespace std;
